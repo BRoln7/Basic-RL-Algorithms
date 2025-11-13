@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "/opt/miniconda3/envs/CRL/bin/python",
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportMissingModuleSource": "none",
+        "reportGeneralTypeIssues": "none"
+    },
+}
